@@ -9,13 +9,13 @@ def my_all?(collection)
   collection.length
   
   block_return_values 
-  <<
+end
   yield (collection[i]
   )
   
     i = i + 1 
    end
-end
+
  if 
   block_return_values.include?(false)
     false
