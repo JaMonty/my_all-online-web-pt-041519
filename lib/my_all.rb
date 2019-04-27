@@ -10,7 +10,7 @@ def my_all?(collection)
   
   block_return_values 
 end
-  yield (collection[i]
+   (collection[i]
   )
   
     i = i + 1 
